@@ -2,6 +2,16 @@
   "devDependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "node-fetch": "^2.6.7"
+  },
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "asciiart": "^1.0.0",
+    "asciiart-logo": "^0.2.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "inputcheck": "^0.0.1"
   }
 }
